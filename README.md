@@ -1,2 +1,1 @@
-# AIRBNB-Clone
-Decentralized Airbnb
+# Airbnb-Starter
